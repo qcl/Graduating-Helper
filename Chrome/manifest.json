@@ -1,0 +1,10 @@
+{
+   "manifest_version": 2,
+   "name": "畢業小幫手",
+   "description": "畢業小幫手，專心做實驗、寫論文。",
+   "background":{
+        "scripts":["background.js"]
+   },
+   "permissions": [ "webRequest", "webRequestBlocking", "*://*.facebook.com/*" ],
+   "version": "0.0.1"
+}
