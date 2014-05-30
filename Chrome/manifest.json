@@ -1,10 +1,10 @@
 {
    "manifest_version": 2,
    "name": "畢業小幫手",
-   "description": "畢業小幫手，專心做實驗、寫論文。",
+   "description": "斷開鎖鏈、魂節，斷開與Facebook一切的牽連，照見五蘊皆空，度一切苦惡。",
    "background":{
         "scripts":["background.js"]
    },
    "permissions": [ "webRequest", "webRequestBlocking", "*://*.facebook.com/*" ],
-   "version": "0.0.1"
+   "version": "0.0.2"
 }
