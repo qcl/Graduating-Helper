@@ -3,7 +3,7 @@ Graduating Helper
 
 畢業小幫手，專心做實驗、寫論文。
 
-斷開鎖鏈、魂節，斷開與Facebook一切的牽連，照見五蘊皆空，度一切苦惡。
+斷開鎖鏈、斷開魂結，斷開與Facebook一切的牽連，照見五蘊皆空，度一切苦厄。
 
 [Google Chrome Web Store](https://chrome.google.com/webstore/detail/畢業小幫手/nkhohgpgeibjhdjodbpbdaphhpnnjmhm)
 
