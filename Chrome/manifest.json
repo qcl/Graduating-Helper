@@ -5,6 +5,6 @@
    "background":{
         "scripts":["background.js"]
    },
-   "permissions": [ "webRequest", "webRequestBlocking", "*://*.facebook.com/*" ],
+   "permissions": [ "webRequest", "webRequestBlocking", "*://*.facebook.com/*", "*://*.plurk.com/*" ],
    "version": "0.0.3"
 }
