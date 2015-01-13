@@ -5,7 +5,8 @@ var listener = function(details) {
 };
 
 var urls = [
-  "*://*.facebook.com/*"
+  "*://*.facebook.com/*",
+  "*://*.plurk.com/*"
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(listener, { urls: urls }, [ "blocking" ]);
